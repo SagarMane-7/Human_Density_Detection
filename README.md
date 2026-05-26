@@ -64,7 +64,6 @@ A Radar-Based Human Density Detection and Monitoring System with a Web Control I
 3.  Create a `.env` file and add your credentials:
     ```env
     MONGO_URL=your_mongodb_connection_string
-    # Add other necessary env variables
     ```
 4.  Start the server:
     ```bash
